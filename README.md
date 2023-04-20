@@ -1,5 +1,5 @@
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-![example workflow](https://github.com/github/docs/actions/workflows/run-gradle.yaml/badge.svg)
+!https://github.com/github/workflows/run-gradle.yaml/badge.svg
 
 <p align="center">
   <a href="https://isc.hevs.ch">
